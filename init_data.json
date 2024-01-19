@@ -1,0 +1,110 @@
+{
+  "Месторождение 1": {
+    "1001": {
+      "mrp": 300,
+      "reservoir_pressure": 150,
+      "prosper_filename": "some_file.asdasd",
+      "points": [
+        {
+          "date": "01.01.2024",
+          "wellhead_pressure": 10,
+            "annular_pressure": 9,
+            "q_liq": 90,
+            "q_gaz": 10000,
+            "wc": 45,
+            "downtime": 0,
+            "wellhead_temperature": 10,
+            "frequency": 50,
+            "downhole_pressure": 130,
+            "pump_intake_pressure": 105
+        }
+      ],
+      "avg_gor": 360,
+      "avg_whp": 20,
+      "avg_q_liq": 100,
+      "avg_wc": 50,
+      "avg_frequency": 52,
+      "avg_pip": 100
+    },
+    "1002": {
+      "mrp": 300,
+      "reservoir_pressure": 150,
+      "prosper_filename": "some_file.asdasd",
+      "points": [
+        {
+          "date": "01.01.2024",
+          "wellhead_pressure": 10,
+            "annular_pressure": 9,
+            "q_liq": 90,
+            "q_gaz": 10000,
+            "wc": 45,
+            "downtime": 0,
+            "wellhead_temperature": 10,
+            "frequency": 50,
+            "downhole_pressure": 130,
+            "pump_intake_pressure": 105
+        }
+      ],
+      "avg_gor": 360,
+      "avg_whp": 20,
+      "avg_q_liq": 100,
+      "avg_wc": 50,
+      "avg_frequency": 52,
+      "avg_pip": 100
+    }
+  },
+  "Месторождение 2": {
+    "2001": {
+      "mrp": 300,
+      "reservoir_pressure": 150,
+      "prosper_filename": "some_file.asdasd",
+      "points": [
+        {
+          "date": "01.01.2024",
+          "wellhead_pressure": 10,
+            "annular_pressure": 9,
+            "q_liq": 90,
+            "q_gaz": 10000,
+            "wc": 45,
+            "downtime": 0,
+            "wellhead_temperature": 10,
+            "frequency": 50,
+            "downhole_pressure": 130,
+            "pump_intake_pressure": 105
+        }
+      ],
+      "avg_gor": 360,
+      "avg_whp": 20,
+      "avg_q_liq": 100,
+      "avg_wc": 50,
+      "avg_frequency": 52,
+      "avg_pip": 100
+    },
+    "2002": {
+      "mrp": 300,
+      "reservoir_pressure": 150,
+      "prosper_filename": "some_file.asdasd",
+      "points": [
+        {
+          "date": "01.01.2024",
+          "wellhead_pressure": 10,
+            "annular_pressure": 9,
+            "q_liq": 90,
+            "q_gaz": 10000,
+            "wc": 45,
+            "downtime": 0,
+            "wellhead_temperature": 10,
+            "frequency": 50,
+            "downhole_pressure": 130,
+            "pump_intake_pressure": 105
+        }
+      ],
+      "avg_gor": 360,
+      "avg_whp": 20,
+      "avg_q_liq": 100,
+      "avg_wc": 50,
+      "avg_frequency": 52,
+      "avg_pip": 100
+    }
+  }
+}
